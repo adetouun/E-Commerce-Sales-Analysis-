@@ -14,8 +14,8 @@ The business demonstrated strong performance across several core metrics:
 
 ## 🖥️ The Dashboard
 The dashboard features a modern dark-mode UI with interactive slicers for Region, Category, and Payment Method, allowing stakeholders to drill down into specific data segments.
-![Dashboard Screenshot](final-dashboard-screenshot.png) 
-*Note: Replace 'final-dashboard-screenshot.png' with the actual name of the image you upload to GitHub.*
+![Dashboard Screenshot](https://github.com/adetouun/E-Commerce-Sales-Analysis-/blob/main/E-Commerce%20Sales%20Analysis%20Dashboard.png)) 
+
 
 * **Interactive UI**: Modern dark-mode design with high-contrast visuals.
 * **Dynamic Slicers**: Interactive filters for **Region**, **Category**, and **Payment Method** for granular data drilling.
