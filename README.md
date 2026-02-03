@@ -15,7 +15,7 @@ The business demonstrated strong performance across several core metrics:
 ## 🖥️ The Dashboard
 The dashboard features a modern dark-mode UI with interactive slicers for Region, Category, and Payment Method, allowing stakeholders to drill down into specific data segments.
 
-![Dashboard Screenshot](https://github.com/adetouun/E-Commerce-Sales-Analysis-/blob/main/E-Commerce%20Sales%20Analysis%20Dashboard.png)) 
+![Dashboard Screenshot](https://github.com/adetouun/E-Commerce-Sales-Analysis-/blob/main/E-Commerce%20Sales%20Analysis%20Dashboard.png)
 
 
 * **Interactive UI**: Modern dark-mode design with high-contrast visuals.
